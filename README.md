@@ -1,4 +1,4 @@
-#  Netflix User Behavior and Revenue Insights  
+#  Subscription & Customer-Behavior Analytics
 
 This project analyzes user behaviour, subscription trends, and revenue generation within a hypothetical Netflix dataset. By leveraging data analysis and visualization techniques, it uncovers actionable insights to improve customer retention and maximize revenue. The final output is an interactive **Power BI dashboard** showcasing critical metrics, including churn rate, retention rate, and monthly revenue.
 
